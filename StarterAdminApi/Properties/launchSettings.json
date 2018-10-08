@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "StarterApi": {
+    "StarterAdminApi": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/values",

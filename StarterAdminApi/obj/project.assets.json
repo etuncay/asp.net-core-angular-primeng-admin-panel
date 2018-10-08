@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/etuncay/GoogleDrive/SourceTree/Github/asp.net-core-identity-server-4-angular6-primeng-admin-panel/StarterApi/StarterApi.csproj",
-      "projectName": "StarterApi",
-      "projectPath": "/Users/etuncay/GoogleDrive/SourceTree/Github/asp.net-core-identity-server-4-angular6-primeng-admin-panel/StarterApi/StarterApi.csproj",
+      "projectUniqueName": "/Users/etuncay/GoogleDrive/SourceTree/Github/asp.net-core-identity-server-4-angular6-primeng-admin-panel/StarterAdminApi/StarterAdminApi.csproj",
+      "projectName": "StarterAdminApi",
+      "projectPath": "/Users/etuncay/GoogleDrive/SourceTree/Github/asp.net-core-identity-server-4-angular6-primeng-admin-panel/StarterAdminApi/StarterAdminApi.csproj",
       "packagesPath": "/Users/etuncay/.nuget/packages/",
-      "outputPath": "/Users/etuncay/GoogleDrive/SourceTree/Github/asp.net-core-identity-server-4-angular6-primeng-admin-panel/StarterApi/obj/",
+      "outputPath": "/Users/etuncay/GoogleDrive/SourceTree/Github/asp.net-core-identity-server-4-angular6-primeng-admin-panel/StarterAdminApi/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
